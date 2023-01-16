@@ -1,0 +1,21 @@
+<html>
+<img src="logo.jpg" alt="Suzane Designer de Unhas">
+
+<head></head>
+
+<body style="background-color:pink;">
+
+<H1>Perfil Profissional</H1>
+
+<h3>Venho através dessa página para divulgar meu trabalho como nails 
+designer onde fiz um mine curso de 10 horas, área na qual 
+me identifiquei bastante e pretendo invéstir na área</h3>
+<img src="certificado.jpeg" alt="certificado">
+<img src="unha.jpeg" alt="Unhas">
+<img src="unha2.jpeg" alt="Unhas">
+<img src="unha3.jpeg" alt="Unhas">
+<img src="unha4.jpeg" alt="Unhas">
+
+</body>
+
+</html>

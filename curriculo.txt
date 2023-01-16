@@ -1,0 +1,80 @@
+<html style=backcolor="ffaaff">
+<img src="foto.jpeg" alt="Suzane Designer de Unhas">
+<head >
+
+</head>
+
+<body style="background-color:pink;">
+
+<h1>Suzane dos Santos Silva</h1>
+
+<h3>Brasileira, solteira,22 anos
+Sitio Cardeiro, Zona Rural
+Soledade - PB
+Telefone: (83)986411426
+E-mail: suzanedossantos194@gmail.com,
+</h3>
+
+
+
+<h2>Objetivo</h2>
+
+Desempenhar o meu trabalho da maneira mais eficiente, de forma a contribuir com o meu crescimento pessoal e o crescimento da empresa.
+
+
+<h2>Escolaridade</h2>
+
+<h3>Ensino Médio Completo (Escola estadual Cicero dos Anjos – São Vicente do Seridó)<h3>
+
+
+<h2>Formação</h2>
+
+<h3>Curso de comunicação empresarial e vendas, recursos humanos, operador de caixa e atendente de farmácia. 
+Projeto capacitar Brasil
+Carga horária 20 horas
+
+Curso tecnico em Informática no Instituto Federalda Paraíba
+
+Especialização de manicure e pedicure
+carga horária de 8 horas<h3>
+
+
+
+<h1>Suzane dos Santos Silva</h1>
+
+<h3>Brasileira, solteira,22 anos
+Sitio Cardeiro, Zona Rural
+Soledade - PB
+Telefone: (83)986411426
+E-mail: suzanedossantos194@gmail.com,
+</h3>
+
+
+
+<h2>Objetivo</h2>
+
+Desempenhar o meu trabalho da maneira mais eficiente, de forma a contribuir com o meu crescimento pessoal e o crescimento da empresa.
+
+
+<h2>Escolaridade</h2>
+
+<h3>Ensino Médio Completo (Escola estadual Cicero dos Anjos – São Vicente do Seridó)<h3>
+
+
+<h2>Formação</h2>
+
+<h3>Curso de comunicação empresarial e vendas, recursos humanos, operador de caixa e atendente de farmácia. 
+Projeto capacitar Brasil
+Carga horária 20 horas
+
+Curso tecnico em Informática no Instituto Federalda Paraíba
+
+Especialização de manicure e pedicure
+carga horária de 8 horas<h3>
+
+
+
+</body>
+
+</html>
+
